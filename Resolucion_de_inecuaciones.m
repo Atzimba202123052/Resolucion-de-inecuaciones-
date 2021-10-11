@@ -7,6 +7,7 @@
 % Date                :20211009
 % Usage               :Octave 
 
+
 clear
 paso_1= 'Escribir la inecuacion en la forma general= a x 2 + b x + c ';
 paso_2= 'Factorizar el lado izquierdo de la inecuacion ';
