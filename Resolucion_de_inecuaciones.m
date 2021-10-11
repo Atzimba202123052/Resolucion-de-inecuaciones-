@@ -4,6 +4,7 @@
 % Authors             :Atzimba Joice Martinez Huitron
 %                     :Francelly Desiree Colin Sandoval 
 %                     :Ana Cristina Franco Gonzales 
+%                     :Ing Horacio RV (lacho_t)
 % Date                :20211009
 % Usage               :Octave 
 
