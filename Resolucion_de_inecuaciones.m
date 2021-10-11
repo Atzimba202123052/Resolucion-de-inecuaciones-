@@ -5,7 +5,7 @@
 %                     :Francelly Desiree Colin Sandoval 
 %                     :Ana Cristina Franco Gonzales 
 % Date                :20211009
-% Usage               :Octave 
+% Usage               :Octave1
 
 clear
 paso_1= 'Escribir la inecuacion en la forma general= a x 2 + b x + c ';
